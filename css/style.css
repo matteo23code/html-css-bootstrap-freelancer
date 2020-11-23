@@ -1,0 +1,36 @@
+
+
+.row{
+  text-align: center;
+}
+
+.navbar{
+  background: #2C3E50;
+  height: 80px;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.jumbotron{
+  background: #1ABC9C;
+  color: #fff;
+}
+
+.portfolio{
+  padding: 0;
+}
+
+ .img-rounded {
+  margin: 15px 15px;
+}
+
+
+ul,li{
+  display: inline-block;
+  font-size: 18px;
+  padding: 0;
+}
+
+img{
+  height: 200px;
+}
